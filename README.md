@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/68cd4701-d50e-45ba-a237-c421515b5d19)
+
 # pluralsight-ngrx-fundamentals
 
 Pluralsight Course Materials for NgRx Fundamentals.
